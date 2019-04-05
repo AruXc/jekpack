@@ -1,0 +1,11 @@
+{
+  "name": "jekpack",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "@bincode/jekpack": "^1.2.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
